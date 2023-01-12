@@ -1,0 +1,17 @@
+'''
+2-9. Number Sixteen: Write addition, subtraction, multiplication, and division operations that each result in the number 16. 
+Be sure to enclose your operations in print() calls to see the results. 
+You should create four lines that look like this: print(13+3) Your output should be four lines, 
+with the number 8 appearing once on each line. 
+
+2-10. Favorite Number: Use a variable to represent your favorite number. Then, using 
+that variable, create a message that reveals your favorite number. Print that message.
+
+challenge exercise 1, Seconds To Time. make a variable called time and give it the value 7532. create 
+3 more variables, one called hours, minutes, and seconds. Using these variables calculate
+the number of hours, minutes, and seconds are in the time variable. (hint, there is 3600 seconds
+in an hour, 60 minutes in an hour, and 60 seconds in a minute. you'll also need the modulos operator)
+
+Matthes, Eric. Python Crash Course, 3rd Edition (p. 29). No Starch Press. Kindle Edition. 
+
+'''

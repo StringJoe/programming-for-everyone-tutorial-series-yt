@@ -1,0 +1,6 @@
+print(8+8)
+print(18-2)
+print(8*2)
+print(48//3)
+print(4**2)
+print(366%350)
